@@ -14,7 +14,6 @@
   <code><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
   <code><img src="https://img.shields.io/badge/MYSQL-316192?style=for-the-badge&logo=mysql&logoColor=white"></code>
   <code><img src="https://img.shields.io/badge/Visual_Studio_Code-1572B6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
-  <code><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></code>
 </div>
   
 ## 📫 Contatos
